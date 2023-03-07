@@ -6,7 +6,7 @@
     box-sizing: border-box;
     /* font-family: 'Poppins', sans-serif; */
     font-family: "Font Awesome", sans-serif;
-    /* user-select: none; */
+    user-select: none;
 }
 
 body{
@@ -46,7 +46,6 @@ header h2 img{
     font-size: 1.6em;
     font-weight: 600;
     color: #000;
-    user-select: none;
 }
 
 .navigation a{
